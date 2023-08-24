@@ -7,3 +7,4 @@ SELECT * FROM employees WHERE first_name LIKE '%A';
 SELECT * FROM employees WHERE first_name LIKE '%a';
 SELECT * FROM employees WHERE first_name LIKE '%a%';
 SELECT * FROM employees WHERE first_name LIKE '_r%';
+ 
